@@ -24156,4 +24156,6 @@
   <node changeset="46454282" id="4709068589" lat="39.8687418" lon="-105.0795178" timestamp="2017-02-27T23:18:12Z" uid="2281193" user="CornCO" version="1" />
   <node changeset="46454282" id="4709068689" lat="39.8690551" lon="-105.0770845" timestamp="2017-02-27T23:18:13Z" uid="2281193" user="CornCO" version="1">
     <tag k="natural" v="tree" />
-  </node><node changeset="46454350" id="4709073312" lat="39.8690286" lon="-105.0783740" timestamp="2017-02-27T23:23:55Z" uid="2281193
+</node>
+</osm>
+ 
